@@ -3,7 +3,7 @@ let ph = 9398035079;              //Number
 let student = true;               //Boolean
 let college;                      //Undefined
 
-const car = {           //Object
+const car = {                     //Object
     type: "fiat",
     model : "2019",
     color : "red"
